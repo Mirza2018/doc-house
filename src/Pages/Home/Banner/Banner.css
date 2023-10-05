@@ -1,0 +1,19 @@
+.bg-img {
+    background-color: rgb(149, 96, 28);
+}
+
+ .img-box {
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    background: rgb(255, 255, 255);
+    box-sizing: border-box;
+    clip-path: polygon(25% 0%, 100% 0%, 75% 100%, 0% 100%);
+  }
+  .img-size {
+    top: 2px; /* equal to border thickness */
+    left: 2px; /* equal to border thickness */
+    width: 146px; /* container height - (border thickness * 2) */
+    height: 146px; /* container height - (border thickness * 2) */
+    clip-path: polygon(25% 0%, 100% 0%, 75% 100%, 0% 100%);
+  }
