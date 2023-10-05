@@ -4,8 +4,9 @@
 
  .img-box {
     position: absolute;
-    width: 150px;
-    height: 150px;
+    width: 152px;
+    height: 152px;
+    border-radius: 2px;
     background: rgb(255, 255, 255);
     box-sizing: border-box;
     clip-path: polygon(25% 0%, 100% 0%, 75% 100%, 0% 100%);

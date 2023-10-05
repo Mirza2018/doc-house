@@ -7,10 +7,10 @@ const Banner = () => {
 <div className='flex justify-center items-center pt-20'><div className='pt-20 md:flex md:justify-center md:gap-60'>
 
         <div className='text-white text-center md:text-start'>
-          <h1 className='text-3xl font-semibold'>Your Best Medical 
+          <h1 className='text-3xl md:text-7xl font-semibold'>Your Best Medical 
           <br />Help Center
           </h1>
-          <p className='text-sm mt-4 mb-6'>
+          <p className='text-sm md:text-lg mt-4 mb-6'>
             Lorem Ipsum is simply dummy text they are printing
             <br /> typesetting has been the industry's stardard.
           </p>
