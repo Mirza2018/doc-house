@@ -3,7 +3,7 @@ import Contact from "../../../components/Contact";
 
 const ContactDetails = () => {
     return (
-        <div className="grid grid-rows-3 md:grid-cols-3 gap-2">
+        <div className="grid grid-rows-3 md:flex gap-2 my-16">
             <Contact
                 bkg='bg-green-900'
                 num={1}
