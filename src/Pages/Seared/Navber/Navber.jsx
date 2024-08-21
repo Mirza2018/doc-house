@@ -7,14 +7,14 @@ const Navber = () => {
     //     <li><a>Item 3</a></li>
     // </>
     return (
-<Navbar className=' z-10 bg-green-900  '
+<Navbar className=' z-10 bg-green-600  '
       fluid
       rounded
     >
       <Navbar.Brand href="#">
         <img
           alt="Flowbite React Logo"
-          className="mr-3 h-6 sm:h-9"
+          className="mr-3 h-6 sm:h-9 rounded-full"
           src="https://toppng.com/uploads/preview/stethoscope-icon-2316460-480-doctor-icon-115533927019hztskdd7s.png"
         />
         <span className="self-center whitespace-nowrap text-xl   text-white">

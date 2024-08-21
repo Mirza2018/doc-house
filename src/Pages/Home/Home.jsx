@@ -6,7 +6,7 @@ import Reviews from "./Reviews/Reviews";
 
 const Home = () => {
     return (
-        <div>
+        <div className="max-w-[80wv]">
             <Banner></Banner>
             <OurServices></OurServices>
             <ContactDetails></ContactDetails>

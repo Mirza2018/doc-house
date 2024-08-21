@@ -2,7 +2,7 @@ import './Banner.css'
 const Banner = () => {
   return (
 
-    <div className='bg-green-900 min-h-screen'>
+    <div className='bg-green-900 max-h-[80hv]'>
 
 <div className='flex justify-center items-center pt-20'><div className='pt-20 md:flex md:justify-center md:gap-60'>
 
